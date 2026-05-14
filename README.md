@@ -1,5 +1,14 @@
-## Hi there 
+## Hi there✌️,
 
+My name is Jose Vimal and I am currently a computer science student studying at BHASVIC college in Brighton.I'm an aspiring software engineer🧑‍💻 hoping to make it into a top-tier University and landing in a top-tier company.
+
+Currently,I am working on my computer science NEA where I have to program a large project by myself and right now it's  in the early analysis🔍 phase where I select the functionality and purpose.Previously,I was a key comntributor to a pair programming project designing a hotel management system using C.
+
+As of right now,as a computer scientist,my only real qualification is a grade 9 in GCSE computer science proving my academic excellence in this field.As an A-level student,my biggest achivement is having a predicted grade of an A,which I hope to upgrade to an A* very soon.
+
+Outside the classroom,I am an elite athlete who is playing in the national Badminton🏸 circuit and am the proud memeber/captain of the Sussex U19 team.I train every single day,regardless how tired I am from my day at BHASVIC!Badminton taught me how to play as a team and to work with others to acieve a shared 🤝 goal.
+
+Overall,my academics and my sport has taught me how to persevere even when things get hard and to give my all to everything that I am a part of and I know I can bring that mentality to my future employer!👍
 <!--
 **BHASVIC-JoseVimal25/BHASVIC-JoseVimal25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
