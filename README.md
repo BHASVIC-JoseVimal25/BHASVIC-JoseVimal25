@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 
 
 <!--
 **BHASVIC-JoseVimal25/BHASVIC-JoseVimal25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
